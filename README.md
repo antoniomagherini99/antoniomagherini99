@@ -14,7 +14,7 @@ Since February 2024 I'm also student assistant for STREAMS - Stakeholder Trainin
 And Management Simulation, a project which aims at developing a serious game for simulating stakeholder\
 participation during river engineering decision-making processes.
 
-I'm currently doing an internship in [Deltares](https://www.deltares.nl/) for working on my Master thesis,which focuses\
+I'm currently doing an internship in [Deltares](https://www.deltares.nl/) for working on my Master thesis, which focuses\
 on developing a deep-learning model for predicting the morphological chenges of a sand-bed braided river.
 
 I still don't know what's the plan after the graduation, but I'm considering either to do a PhD\
