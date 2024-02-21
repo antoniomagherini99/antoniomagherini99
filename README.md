@@ -17,9 +17,6 @@ participation during river engineering decision-making processes.
 I'm currently doing an internship in [Deltares](https://www.deltares.nl/) for working on my Master thesis, which focuses\
 on developing a deep-learning model for predicting the morphological chenges of a sand-bed braided river.
 
-I still don't know what's the plan after the graduation, but I'm considering either to do a PhD\
-or to work in a research centre or similar institutes.
-
 If you want to contact me, please send an e-mail to either one of the following addresses:
 
 - antonio.magherini@gmail.com (personal account, recommended)
