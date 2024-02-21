@@ -15,7 +15,7 @@ And Management Simulation, a project which aims at developing a serious game for
 participation during river engineering decision-making processes.
 
 I'm currently doing an internship in [Deltares](https://www.deltares.nl/) for working on my Master thesis, which focuses\
-on developing a deep-learning model for predicting the morphological chenges of a sand-bed braided river.
+on implementing a deep-learning model for predicting the morphological chenges of a sand-bed braided river.
 
 If you want to contact me, please send an e-mail to either one of the following addresses:
 
