@@ -15,8 +15,8 @@ I'm currently doing an internship at [Deltares](https://www.deltares.nl/) for wo
 If you want to contact me, please send an e-mail to either one of the following addresses:
 
 - antonio.magherini@gmail.com (personal account, recommended)
-- a.magherini@student.tudelft.nl (student account)
-- Antonio.Magherini@deltares.nl (Deltares account)
+- a.magherini@student.tudelft.nl (student account, will stop to exist once graduated)
+- Antonio.Magherini@deltares.nl (Deltares account,  will stop to exist once graduated)
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/antonio-magherini-4349b2229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
