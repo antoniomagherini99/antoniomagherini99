@@ -6,7 +6,7 @@ Apart from hydraulic and particularly river engineering topics, during my studie
 
 My main interests are river morphodynamics and interventions, river modelling, flood risk and natural hazards mitigation as well as hydrology and in general hydraulic engineering topics.
 
-Since July 2023 I am teaching assistant at the Faculty of [Civil Engineering and Geosciences](https://www.tudelft.nl/en/ceg) for the common module MUDE - Modelling, Uncertainty and Data for Engineers, that aims to provide the students with the necessary tools for civil engineering and earth sciences applications.
+From July 2023 to April 2024 I was teaching assistant at the Faculty of [Civil Engineering and Geosciences](https://www.tudelft.nl/en/ceg) for the common module MUDE - Modelling, Uncertainty and Data for Engineers, that aims to provide the students with the necessary tools for civil engineering and earth sciences applications.
 
 Since February 2024 I'm also student assistant for the project STREAMS - Stakeholder Training in River Engineering And Management Simulation, whose goal is to develop a serious game for simulating stakeholder participation during river engineering decision-making processes.
 
