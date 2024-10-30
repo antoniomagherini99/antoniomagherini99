@@ -10,7 +10,7 @@ From July 2023 to April 2024 I was teaching assistant at the Faculty of [Civil E
 
 Since February 2024 I'm also student assistant for the project STREAMS - Stakeholder Training in River Engineering And Management Simulation, whose goal is to develop a serious game for simulating stakeholder participation during river engineering decision-making processes.
 
-I'm currently doing an internship at [Deltares](https://www.deltares.nl/) for working on my Master thesis, which focuses on developing a deep-learning model for predicting the morphological changes of rivers.
+I'm currently doing an internship at [Deltares](https://www.deltares.nl/) for working on my Master thesis, which focuses on developing a deep-learning model for predicting the morphological changes of rivers. You can read my thesis [here](https://repository.tudelft.nl/record/uuid:38ea0798-dd3d-4be2-b937-b80621957348).
 
 During my second year of the Master I performed some laboratory experiments on the accumulation of plastic particles upstream of hydraulic structures at the Hydraulic Engineering Laboratory of TU Delft. I had the opportunity to publish and present an abstract of this experience at [NCR DASY 2024](https://ncr-web.org/). If you are interested, you can read [my abstract](https://research.tudelft.nl/en/publications/accumulation-of-floating-particles-at-hydraulic-structures) and [the full book of abstracts](https://kbase.ncr-web.org/outputs/ncr-days-2024-book-of-abstracts/).
 
